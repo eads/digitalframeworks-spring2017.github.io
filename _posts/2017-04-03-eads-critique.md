@@ -6,3 +6,5 @@ author: David Eads
 ---
 
 Lorem ipsum.
+
+[NPR is good at podcasting](http://npr.org) and radio.
